@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 10 16:36:55 2017
 
-@author: Myron
+@author: Myron & Xinyi
 """
 import os as os
 #import pydotplus
